@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Paris Discovery</string>
+
+    <!-- Categories -->
+    <string name="category_cafes">Cafés</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_museums">Museums</string>
+
+    <!-- Cafés -->
+    <string name="cafe1_name">Café de Flore</string>
+    <string name="cafe1_desc">One of the oldest coffeehouses in Paris, famous for its celebrity clientele.</string>
+    <string name="cafe1_address">172 Bd Saint-Germain, 75006 Paris</string>
+    
+    <string name="cafe2_name">Les Deux Magots</string>
+    <string name="cafe2_desc">A famous café in Saint-Germain-des-Prés, once a popular spot for intellectuals.</string>
+    <string name="cafe2_address">6 Pl. Saint-Germain des Prés, 75006 Paris</string>
+    
+    <string name="cafe3_name">Angelina</string>
+    <string name="cafe3_desc">Famous for its decadent hot chocolate and Belle Époque interior.</string>
+    <string name="cafe3_address">226 Rue de Rivoli, 75001 Paris</string>
+
+    <!-- Restaurants -->
+    <string name="rest1_name">Le Comptoir de la Relais</string>
+    <string name="rest1_desc">Classic French bistro fare in a lively, historic setting.</string>
+    <string name="rest1_address">9 Carrefour de l\'Odéon, 75006 Paris</string>
+    
+    <string name="rest2_name">Septime</string>
+    <string name="rest2_desc">Modern, creative French cuisine in a minimalist, light-filled space.</string>
+    <string name="rest2_address">80 Rue de Charonne, 75011 Paris</string>
+    
+    <string name="rest3_name">L\'As du Fallafel</string>
+    <string name="rest3_desc">World-famous spot for falafel sandwiches in the heart of Le Marais.</string>
+    <string name="rest3_address">32-34 Rue des Rosiers, 75004 Paris</string>
+
+    <!-- Parks -->
+    <string name="park1_name">Jardin du Luxembourg</string>
+    <string name="park1_desc">Beautiful 17th-century gardens with statues, fountains, and a palace.</string>
+    <string name="park1_address">75006 Paris</string>
+    
+    <string name="park2_name">Parc des Buttes-Chaumont</string>
+    <string name="park2_desc">Landscape garden with steep cliffs, a waterfall, and a suspended bridge.</string>
+    <string name="park2_address">1 Rue Botzaris, 75019 Paris</string>
+    
+    <string name="park3_name">Jardin des Tuileries</string>
+    <string name="park3_desc">Formal French gardens separating the Louvre from the Place de la Concorde.</string>
+    <string name="park3_address">Pl. de la Concorde, 75001 Paris</string>
+
+    <!-- Museums -->
+    <string name="mus1_name">Musée du Louvre</string>
+    <string name="mus1_desc">The world\'s largest art museum and a historic monument in Paris.</string>
+    <string name="mus1_address">75001 Paris</string>
+    
+    <string name="mus2_name">Musée d\'Orsay</string>
+    <string name="mus2_desc">Museum housed in a former railway station, famous for Impressionist masterpieces.</string>
+    <string name="mus2_address">1 Rue de la Légion d\'Honneur, 75007 Paris</string>
+    
+    <string name="mus3_name">Centre Pompidou</string>
+    <string name="mus3_desc">High-tech architectural marvel housing Europe\'s largest modern art museum.</string>
+    <string name="mus3_address">Place Georges-Pompidou, 75004 Paris</string>
+</resources>
